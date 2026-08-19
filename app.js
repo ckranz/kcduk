@@ -1,4 +1,4 @@
-const API_URL = 'https://sessionize.com/api/v2/lxonkgvd/view/All';
+const API_URL = 'https://sessionize.com/api/v2/7xmk394s/view/All';
 
 let allData = null;
 let filteredSessions = [];
